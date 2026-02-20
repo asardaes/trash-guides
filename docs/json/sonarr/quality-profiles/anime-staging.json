@@ -9,6 +9,7 @@
   "cutoff": "Bluray 1080p",
   "minFormatScore": 10,
   "cutoffFormatScore": 10000,
+  "minUpgradeFormatScore": 1,
   "items": [
     { "name": "Bluray-1080p", "allowed": true },
     {
