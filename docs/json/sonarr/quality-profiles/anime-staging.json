@@ -10,7 +10,7 @@
   "minFormatScore": 10,
   "cutoffFormatScore": 10000,
   "items": [
-    { "name": "Bluray 1080p", "allowed": true },
+    { "name": "Bluray-1080p", "allowed": true },
     {
       "name": "WEB 1080p",
       "allowed": true,
