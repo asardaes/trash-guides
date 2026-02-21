@@ -1,5 +1,9 @@
 {
   "trash_id": "b2550eb333d27b75833e25b8c2557b38",
+  "trash_scores": {
+    "default": 0,
+    "anime-sonarr": 50
+  },
   "name": "10bit",
   "includeCustomFormatWhenRenaming": false,
   "specifications": [
