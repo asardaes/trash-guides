@@ -1,5 +1,8 @@
 {
   "trash_id": "064af5f084a0a24458cc8ecd3220f93f",
+  "trash_scores": {
+    "anime-radarr": 100
+  },
   "name": "Uncensored",
   "includeCustomFormatWhenRenaming": true,
   "specifications": [
