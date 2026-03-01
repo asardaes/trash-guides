@@ -1,0 +1,19 @@
+{
+  "name": "Bluray Boost",
+  "trash_id": "asardaes-cfg-bluray-boost",
+  "trash_description": "Prefer Bluray",
+  "default": "true",
+  "custom_formats": [
+    {
+      "name": "Bluray Boost",
+      "trash_id": "asardaes-bluray-boost",
+      "required": true
+    }
+  ],
+  "quality_profiles": {
+    "include": {
+      "Bluray": "asardaes-bluray",
+      "Almost-Any": "asardaes-almost-any"
+    }
+  }
+}
