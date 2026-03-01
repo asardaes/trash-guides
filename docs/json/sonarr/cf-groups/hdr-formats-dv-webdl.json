@@ -11,6 +11,7 @@
   ],
   "quality_profiles": {
     "include": {
+      "Bluray": "asardaes-bluray",
       "Almost-Any": "asardaes-almost-any",
       "WEB-2160p": "d1498e7d189fbe6c7110ceaabb7473e6",
       "WEB-2160p (Alternative)": "dfa5eaae7894077ad6449169b6eb03e0",
