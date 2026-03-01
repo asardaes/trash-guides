@@ -26,15 +26,6 @@
       }
     },
     {
-      "name": "Not 2160p",
-      "implementation": "ResolutionSpecification",
-      "negate": true,
-      "required": true,
-      "fields": {
-        "value": 2160
-      }
-    },
-    {
       "name": "SA89",
       "implementation": "ReleaseGroupSpecification",
       "negate": false,
