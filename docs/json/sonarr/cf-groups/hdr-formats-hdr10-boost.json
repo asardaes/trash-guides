@@ -5,7 +5,8 @@
   "custom_formats": [
     {
       "name": "HDR10+ Boost",
-      "trash_id": "0c4b99df9206d2cfac3c05ab897dd62a"
+      "trash_id": "0c4b99df9206d2cfac3c05ab897dd62a",
+      "required": true
     }
   ],
   "quality_profiles": {

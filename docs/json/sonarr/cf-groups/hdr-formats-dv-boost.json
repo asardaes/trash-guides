@@ -5,7 +5,8 @@
   "custom_formats": [
     {
       "name": "DV Boost",
-      "trash_id": "7c3a61a9c6cb04f52f1544be6d44a026"
+      "trash_id": "7c3a61a9c6cb04f52f1544be6d44a026",
+      "required": true
     }
   ],
   "quality_profiles": {
