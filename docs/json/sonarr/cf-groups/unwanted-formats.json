@@ -7,7 +7,8 @@
         {
             "name": "AV1",
             "trash_id": "15a05bc7c1a36e2b57fd628f8977e2fc",
-            "required": false
+            "required": false,
+            "default": false
         },
         {
             "name": "Bad Dual Groups",
