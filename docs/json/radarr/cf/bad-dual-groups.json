@@ -4,6 +4,7 @@
     "default": -10000,
     "french-multi-vf": 0,
     "french-multi-vo": 0,
+    "french-vostfr": 0,
     "german": -35000
   },
   "name": "Bad Dual Groups",
@@ -61,6 +62,15 @@
       "required": false,
       "fields": {
         "value": "^(Cory)$"
+      }
+    },
+    {
+      "name": "EniaHD",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(EniaHD)$"
       }
     },
     {
