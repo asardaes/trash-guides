@@ -106,6 +106,15 @@
       }
     },
     {
+      "name": "hallowed",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "^(hallowed)$"
+      }
+    },
+    {
       "name": "Headpatter",
       "implementation": "ReleaseTitleSpecification",
       "negate": false,
