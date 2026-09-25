@@ -1,3 +1,19 @@
+# 2026-09-20 03:56
+- [feat(plex): add streaming and buffering troubleshooting guide (Tautulli/Tracearr)](https://github.com/TRaSH-Guides/Guides/pull/2893)
+- [feat(starr): update CF `FAND` to also match `FAH` and `FDNG`](https://github.com/TRaSH-Guides/Guides/pull/2888)
+
+# 2026-09-13 03:46
+- [feat(guide-sync): Sorting order fix for the German Anime Profiles and other fixes](https://github.com/TRaSH-Guides/Guides/pull/2886)
+- [feat(downloaders): Add WebUI API key support for qBittorrent (rebase of #2860)](https://github.com/TRaSH-Guides/Guides/pull/2885)
+- [fix(downloaders): stop set -e  killing the mover scripts on a failed instance or dry-run](https://github.com/TRaSH-Guides/Guides/pull/2884)
+- [feat(starr): Removed RlsGrp `HHWEB` from `WEB Tier 03`](https://github.com/TRaSH-Guides/Guides/pull/2881)
+
+# 2026-09-06 03:29
+- [fix(sonarr-anime): anchor Anime LQ Groups patterns to release-tag position](https://github.com/TRaSH-Guides/Guides/pull/2880)
+- [fix(downloaders): Update mover-tuning-start.sh](https://github.com/TRaSH-Guides/Guides/pull/2873)
+- [fix(starr): BR-DISK should match 720p full-disc releases](https://github.com/TRaSH-Guides/Guides/pull/2878)
+- [feat(starr-german): Add toto to bluray and web t02](https://github.com/TRaSH-Guides/Guides/pull/2879)
+
 # 2026-08-30 04:15
 - [feat(radarr): Move ATELiER from HD Bluray Tier 02 to HD Bluray Tier 01](https://github.com/TRaSH-Guides/Guides/pull/2870)
 
