@@ -107,11 +107,11 @@
     },
     {
       "name": "hallowed",
-      "implementation": "ReleaseGroupSpecification",
+      "implementation": "ReleaseTitleSpecification",
       "negate": false,
       "required": false,
       "fields": {
-        "value": "^(hallowed)$"
+        "value": "\\[hallowed\\]|-hallowed\\b"
       }
     },
     {
