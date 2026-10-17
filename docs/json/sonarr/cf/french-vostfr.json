@@ -31,6 +31,15 @@
       "fields": {
         "value": "\\b(SUBFR(A|ENCH)?)\\b"
       }
+    },
+    {
+      "name": "KAF",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(KAF)\\b"
+      }
     }
   ]
 }
