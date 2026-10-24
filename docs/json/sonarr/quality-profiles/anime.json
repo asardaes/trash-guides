@@ -3,6 +3,7 @@
   "name": "Anime",
   "trash_description": "Anime desu",
   "trash_url": "https://trash-guides.info/Sonarr/sonarr-setup-quality-profiles-anime/#quality-profile",
+  "trash_quality_definition": { "anime": "387e6278d8e06083d813358762e0ac63" },
   "group": 81,
   "trash_score_set": "anime-sonarr",
   "upgradeAllowed": true,
